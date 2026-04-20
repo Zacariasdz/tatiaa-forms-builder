@@ -1,5 +1,3 @@
-'use client';
-
 import React, { useState } from 'react';
 import { FormSchema } from '@/lib/types';
 import { cn } from '@/lib/utils';

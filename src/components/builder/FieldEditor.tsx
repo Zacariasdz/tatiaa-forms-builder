@@ -1,5 +1,3 @@
-'use client';
-
 import React, { useState } from 'react';
 import { FormField } from '@/lib/types';
 import { Plus, X, Trash2, ShieldAlert, ChevronDown, ChevronRight, Target } from 'lucide-react';
